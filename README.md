@@ -7,7 +7,7 @@ O sistema calcula automaticamente o resistor ideal com base na Lei de Ohm, suger
 📸 Interface
 ## 📸 Interface
 
-![LED CALC UI](C:\img\Captura de tela 2026-04-29 171830.png)
+![LED CALC UI](assets/screenshot.png)
 
 🚀 Funcionalidades
 Entrada de:
